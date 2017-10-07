@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>back.png</file>
+        <file>bell.png</file>
+        <file>flag.png</file>
+    </qresource>
+</RCC>
